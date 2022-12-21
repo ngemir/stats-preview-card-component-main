@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/stats-preview-card-component-X21EVyBNWF](https://www.frontendmentor.io/solutions/stats-preview-card-component-X21EVyBNWF)
-- Live Site URL: [https://swaveng.github.io/stats-preview-card-component-main/](https://swaveng.github.io/stats-preview-card-component-main/)
+- Live Site URL: [https://ngemir.github.io/stats-preview-card-component-main/](https://swaveng.github.io/stats-preview-card-component-main/)
 
 ## My process
 
